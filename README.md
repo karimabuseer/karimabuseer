@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 <!--
 **karimabuseer/karimabuseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there! I'm Karim, a passionate developer from London. I believe in the power of technology to transform lives, and the world in an equitable way. I'm a little addicted to cracking algorithms and neatening up my code right now, and having a crazy amount of fun doing so.
