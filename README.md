@@ -6,7 +6,7 @@ I believe in the power of technology to transform lives, and the world in an equ
 Right now I'm a little addicted to cracking algorithms and neatening up my code right now, and having a crazy amount of fun doing so.
 
 ## Contents
-[Skills](#skills) | [Education](#education) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | [What I'd like to work on](what-id-like-to-work-on) | [Where to find me](where-to-find-me) | 
+[Skills](#skills) | [Education](#education) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | [What I'd like to work on](what-id-like-to-work-on) | [Personal Interests](#personal-interests) | [Where to find me](#where-to-find-me) | 
 
 ## Skills
 - Languages: Ruby, Python, C
@@ -53,13 +53,11 @@ I'm currently working on a character sheet that can be used with Dungeos & Drago
 ## What I'd like to work on
 I'd like to work on apps that increase the ability of normal people to consume important data; particularly around things like world health. I'd also be interested in working on projects that attempt to tackle issues of social justice (e.g software that makes the world a better place!). There's a tonne of interest for me within this; whether it's apps that aids users to understand how to be more green, software that helps protect privacy, or programs that help share educational material. 
 
-I'd also love to eventually work in a role either focused towards big data, or towards AI - though I'm not at a level where I'd be confident of my ability to contribute meaningfully. 
+I'd also love to eventually work in a role either focused towards big data, or towards AI - though I'm not at a level where I'd be confident of my ability to contribute meaningfully.
+
+## Personal Interests
+I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'm also a big rugby fan, and both play and watch the sport regularly. I also love running, having run a marathon and a few half marathons before. Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance to. 
 
 ## Where to find me
-In beautiful South London, with my earphones on and a coffee in hand! If not...
-Twitter
-Instagram
-LinkedIn
-Codewars
-Leetcode
-Stack overflow
+In beautiful South London, with my headphones on and a coffee in hand! If not...
+[Twitter](https://twitter.com/KarimAbuSeer) | [Instagram](https://www.instagram.com/karimabuseer/) | [LinkedIn](https://www.linkedin.com/in/karim-abu-seer-1a896153/) | [Codewars](https://www.codewars.com/users/karimabuseer) | [Leetcode](https://leetcode.com/karimabuseer/) | [Stack overflow](https://stackoverflow.com/users/16329462/karim-abu-seer)
