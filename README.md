@@ -5,13 +5,13 @@ I believe in the power of technology to transform lives, and the world in an equ
 
 Right now I'm a little addicted to cracking algorithms and neatening up my code right now, and having a crazy amount of fun doing so.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ## Contents
 [Skills](#skills) | [Education](#education) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | [What I'd like to work on](what-id-like-to-work-on) | [Personal Interests](#personal-interests) | [Where to find me](#where-to-find-me) | 
 
 ## Skills
-- Languages: Ruby, Python, C
+- Languages: <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>,<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 - Interpersonal Skills: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types
 - Problem-solving: Problem solving comes naturally for me, and I approach most roadblocks in my life in a precise and analytical fashion. My undergraduate and postgraduate studies both heavily involved areas of Philosophy where problem solving is incredibly important (Metaphysics, Linguistics etc). I delight in abstraction, and in analytic effiency)
 
