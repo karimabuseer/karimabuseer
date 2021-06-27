@@ -5,6 +5,9 @@ I believe in the power of technology to transform lives, and the world in an equ
 
 Right now I'm a little addicted to cracking algorithms and neatening up my code right now, and having a crazy amount of fun doing so.
 
+## Contens
+[Skills](google.com) | Education | Proudest Achievements | What I'm working on | What I'd like to work on | Where to find me | 
+
 ## Skills
 - Languages: Ruby, Python, C
 - Interpersonal Skills: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types
@@ -53,7 +56,7 @@ I'd like to work on apps that increase the ability of normal people to consume i
 I'd also love to eventually work in a role either focused towards big data, or towards AI - though I'm not at a level where I'd be confident of my ability to contribute meaningfully. 
 
 ## Where to find me
-In beautiful South London, wit my earphones on and a coffee in hand! If not...
+In beautiful South London, with my earphones on and a coffee in hand! If not...
 Twitter
 Instagram
 LinkedIn
