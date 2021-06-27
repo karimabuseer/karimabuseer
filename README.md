@@ -1,25 +1,27 @@
 # Hello there! 👋
+Hello there! I'm Karim, a passionate junior full-stack developer from London. The midwife who delivered me declared I'd be a gigantic nerd to my mother, and happily she was proven correct. 
 
-<!--
-**karimabuseer/karimabuseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe in the power of technology to transform lives, and the world in an equitable way. I'm earnestly excited about software that can help us tackle some of the world's biggest challenges, and am currently learning to become a fully fledged developer, so I can contribute to projects in a meaningful fashion. 
 
-Here are some ideas to get you started:
+Right now I'm a little addicted to cracking algorithms and neatening up my code right now, and having a crazy amount of fun doing so.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hello there! I'm Karim, a passionate junior full-stack developer from London. I believe in the power of technology to transform lives, and the world in an equitable way. I'm a little addicted to cracking algorithms and neatening up my code right now, and having a crazy amount of fun doing so.
 ## Skills
 - Languages: Ruby, Python, C
 - Interpersonal Skills: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types
-- Problem-solving: 
+- Problem-solving: Problem solving comes naturally for me, and I approach most roadblocks in my life in a precise and analytical fashion. My undergraduate and postgraduate studies both heavily involved areas of Philosophy where problem solving is incredibly important (Metaphysics, Linguistics etc). I delight in abstraction, and in analytic effiency)
+
+## Education
+### Makers academy (May '21 - current)
+A developmental bootcamp, focusing on
+- Agile methdologies
+- OOP
+- Team & pair programming
+- TDD & BDD
+
+### Self Teaching Basic Programming & CS (Jan '21  - May '21)
+Focusing on
+* Introduction to Python (via Al Sweitgart's Automate the Boring Stuff)
+* 
 
 
 ## Proudest Achievements
@@ -30,13 +32,17 @@ Hello there! I'm Karim, a passionate junior full-stack developer from London. I 
   - Being a loving son to my mother, and caring brother to my wonderful siblings
 
 ## What I'm working on
-I'm currently working on a character sheet that can be used with Dungeos & Dragons 5th Edition with a friend. We're currently working on the various methods and databases in Ruby that will form the backend; as we learn more HTML, CSS and JS we hope to 
+I'm currently working on a character sheet that can be used with Dungeos & Dragons 5th Edition with a friend. We're currently working on the various methods and databases in Ruby that will form the backend; as we learn more HTML, CSS and JS we hope to build a good-looking frontend for it, so eventually we have a site we're able to diseminate for usage amongst our friends.  
 
 ## What I'd like to work on
-I'd like to work on apps that increase the ability of normal people to consume important data; particularly around things like world health. I'd also be interested in working on projects that attempt to aid privacy in some way. I'd also love to eventually work in a role either focused towards big data, or towards AI - though I'm not at a level where I'd be confident of my ability to contribute meaningfully. 
+I'd like to work on apps that increase the ability of normal people to consume important data; particularly around things like world health. I'd also be interested in working on projects that attempt to tackle issues of social justice (e.g software that makes the world a better place!). There's a tonne of interest for me within this; whether it's apps that aids users to understand how to be more green, software that helps protect privacy, or programs that help share educational material. 
+
+I'd also love to eventually work in a role either focused towards big data, or towards AI - though I'm not at a level where I'd be confident of my ability to contribute meaningfully. 
 
 ## Where to find me
 In beautiful South London, wit my earphones on and a coffee in hand! If not...
 Twitter
 Instagram
 LinkedIn
+Codewars
+Leetcode
