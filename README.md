@@ -5,8 +5,8 @@ I believe in the power of technology to transform lives, and the world in an equ
 
 Right now I'm a little addicted to cracking algorithms and neatening up my code right now, and having a crazy amount of fun doing so.
 
-## Contens
-[Skills](#skills) | [Education](#education) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | What I'd like to work on | Where to find me | 
+## Contents
+[Skills](#skills) | [Education](#education) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | [What I'd like to work on](what-id-like-to-work-on) | [Where to find me](where-to-find-me) | 
 
 ## Skills
 - Languages: Ruby, Python, C
