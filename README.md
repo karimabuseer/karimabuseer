@@ -32,14 +32,14 @@ A developmental bootcamp, focusing on
 * Played for the 2nd XV Bucs Rugby Union Team
 * Lead a Karnival charity team; entire raised £1.6m across the academic year; personal team raised £160k
 * Welfare Officer for the University of Nottingham Rugby Union Club
-### Wilson's School (Sept '07 - June '14)
-* A Levels: Philosophy, English, Mathematics (Physics & IT AS): A*A*B(BB)
-* 8 A* 1 A 1 B GCSE (1st XV Rugby Captain, House Charity Captain)
-
 ### Self Teaching Basic Programming & CS (Jan '21  - May '21)
 Focusing on
 * Introduction to Python (via Al Sweitgart's Automate the Boring Stuff)
-* 
+* Learnt some basic C & CS concepts via the CS50 freeware course
+
+### Wilson's School (Sept '07 - June '14)
+* A Levels: Philosophy, English, Mathematics (Physics & IT AS): A*A*B(BB)
+* 8 A* 1 A 1 B GCSE (1st XV Rugby Captain, House Charity Captain)
 
 
 ## Proudest Achievements
