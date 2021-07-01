@@ -43,7 +43,7 @@ Focusing on
 
 
 ## Proudest Achievements
-  - Making it omto the discerning Maker's Course, a software bootcamp based in London
+  - Making it onto the discerning Maker's Course, a software bootcamp based in London
   - Leading a team of student volunteers at the University of Nottingham, raising £150k> for charity (the highlight of which was a group of us running Barcelona marathon for make a wish!)
   - Completing CS50 in 3 weeks, whilst simultaneously self teaching Python
   - Being one of the head honchos at the London Wargaming Guild; the world's biggest Warhammer club (and a safe place where anyone can enjoy wargaming/board games)
