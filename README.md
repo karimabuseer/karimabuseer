@@ -50,7 +50,7 @@ Focusing on
   - Being a loving son to my mother, and caring brother to my wonderful siblings
 
 ## What I'm working on
-I'm currently working on a character sheet that can be used with Dungeos & Dragons 5th Edition with a friend. We're currently working on the various methods and databases in Ruby that will form the backend; as we learn more HTML, CSS and JS we hope to build a good-looking frontend for it, so eventually we have a site we're able to diseminate for usage amongst our friends.  
+I'm currently working on a character sheet that can be used with Dungeons & Dragons 5th Edition with a friend. We're currently working on the various methods and databases in Ruby that will form the backend; as we learn more HTML, CSS and JS we hope to build a good-looking frontend for it, so eventually we have a site we're able to diseminate for usage amongst our friends.  
 
 ## What I'd like to work on
 I'd like to work on apps that increase the ability of normal people to consume important data; particularly around things like world health. I'd also be interested in working on projects that attempt to tackle issues of social justice (e.g software that makes the world a better place!). There's a tonne of interest for me within this; whether it's apps that aids users to understand how to be more green, software that helps protect privacy, or programs that help share educational material. 
