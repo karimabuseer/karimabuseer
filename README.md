@@ -38,7 +38,7 @@ Focusing on
 * Learnt some basic C & CS concepts via the CS50 freeware course
 
 ### Wilson's School (Sept '07 - June '14)
-* A Levels: Philosophy, English, Mathematics (Physics & IT AS): A*A*B(BB)
+* A Levels: Philosophy, English, Mathematics (Physics & IT AS): A* A* B(BB)
 * 8 A* 1 A 1 B GCSE (1st XV Rugby Captain, House Charity Captain)
 
 
