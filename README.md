@@ -39,7 +39,7 @@ Focusing on
 
 ### Wilson's School (Sept '07 - June '14)
 * A Levels: Philosophy, English, Mathematics (Physics & IT AS): A* A* B(BB)
-* 8 A* 1 A 1 B GCSE (1st XV Rugby Captain, House Charity Captain)
+* 9 A* 1 A GCSE (1st XV Rugby Captain, House Charity Captain)
 
 
 ## Proudest Achievements
