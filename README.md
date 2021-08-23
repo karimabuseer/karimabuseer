@@ -62,4 +62,4 @@ I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'
 
 ## Where to find me
 In beautiful South London, with my headphones on and a coffee in hand! If not...
-[Twitter](https://twitter.com/KarimAbuSeer) | [Instagram](https://www.instagram.com/karimabuseer/) | [LinkedIn](https://www.linkedin.com/in/karim-abu-seer-1a896153/) | [Codewars](https://www.codewars.com/users/karimabuseer) | [Leetcode](https://leetcode.com/karimabuseer/) | [Stack overflow](https://stackoverflow.com/users/16329462/karim-abu-seer)
+[Twitter](https://twitter.com/KarimDoesTech) | [Instagram](https://www.instagram.com/karimabuseer/) | [LinkedIn](https://www.linkedin.com/in/karim-abu-seer-1a896153/) | [Codewars](https://www.codewars.com/users/karimabuseer) | [Leetcode](https://leetcode.com/karimabuseer/) | [Stack overflow](https://stackoverflow.com/users/16329462/karim-abu-seer)
