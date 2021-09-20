@@ -1,3 +1,8 @@
+## Contents
+[Skills](#skills) | [Education](#education) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | [What I'd like to work on](what-id-like-to-work-on) | [Personal Interests](#personal-interests) | [Where to find me](#where-to-find-me) | 
+
+<img src = "https://github-readme-stats.vercel.app/api?username=karimabuseer&&show_icons=true&title_colo[%E2%80%A6]f&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 # Hello there! 👋
 Hello there! I'm Karim, a passionate junior full-stack developer from London. The midwife who delivered me declared I'd be a gigantic nerd to my mother, and happily she was proven correct. 
 
@@ -6,9 +11,6 @@ I believe in the power of technology to transform lives, and the world in an equ
 Right now I'm a little addicted to cracking algorithms and neatening up my code right now, and having a crazy amount of fun doing so.
 
 Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.me/badge?page_id=78814665)
-
-## Contents
-[Skills](#skills) | [Education](#education) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | [What I'd like to work on](what-id-like-to-work-on) | [Personal Interests](#personal-interests) | [Where to find me](#where-to-find-me) | 
 
 ## Skills
 - Languages: <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>,<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
