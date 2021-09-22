@@ -17,6 +17,13 @@ Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.m
 - Interpersonal Skills: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types
 - Problem-solving: Problem solving comes naturally for me, and I approach most roadblocks in my life in a precise and analytical fashion. My undergraduate and postgraduate studies both heavily involved areas of Philosophy where problem solving is incredibly important (Metaphysics, Linguistics etc). I delight in abstraction, and in analytic effiency)
 
+### Projects
+Project | Description | Stack | Demo Link
+--- | --- | --- | ---
+[Chronicle](https://github.com/karimabuseer/chronicle-content-tracker) | An interactive single-page map application that finds the midpoint between two locations based on travel time and displays a list of local venues within a selected radius of that midpoint. | Vanilla JS, Express, Pug, Node.js, HTML, CSS | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][https://chronicle-content-tracker.herokuapp.com/]
+[Acebook][3] | Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them.  | Ruby, Rails, Postgres(PG gem), HTML, CSS | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][6]
+[MakersBNB][4] | Creating an airbnb clone - finished features include hosting and bookings. | Ruby, Postgres /w ActiveRecord, HTML, CSS | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7]
+
 ## Education
 ### Makers academy (May '21 - current)
 A developmental bootcamp, focusing on
