@@ -6,16 +6,17 @@
 # Hello there! 👋
 Hello there! I'm Karim, a passionate junior full-stack developer from London. The midwife who delivered me declared I'd be a gigantic nerd to my mother, and happily she was proven correct. 
 
-I believe in the power of technology to transform lives, and the world in an equitable way. I'm earnestly excited about software that can help us tackle some of the world's biggest challenges, and am currently learning to become a fully fledged developer, so I can contribute to projects in a meaningful fashion. 
+I believe in the power of technology to transform lives, and the world in an equitable way. I'm thrilled by software that can help us tackle some of the world's biggest challenges, and focus every moment I have on upskilling as a developer. 
 
-Right now I'm a little addicted to cracking algorithms and neatening up my code right now, and having a crazy amount of fun doing so.
+I'm solutions obsessed, and very excited to find the perfect first role where I can continue learning, and began contributing to a product. 
 
 Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.me/badge?page_id=78814665)
 
 ## Skills
-- Languages: <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+- **Languages**: Exprience in Ruby, Javascript, HTML, CSS, Python and C.
+- **Problem-solving:** Problem solving comes naturally for me, and I approach most roadblocks in my life in a precise and analytical fashion. My undergraduate and postgraduate studies both heavily involved areas of Philosophy where problem solving is incredibly important (Metaphysics, Linguistics etc). I delight in abstraction, and in analytic effiency)
 - Interpersonal Skills: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types
-- Problem-solving: Problem solving comes naturally for me, and I approach most roadblocks in my life in a precise and analytical fashion. My undergraduate and postgraduate studies both heavily involved areas of Philosophy where problem solving is incredibly important (Metaphysics, Linguistics etc). I delight in abstraction, and in analytic effiency)
+
 
 ### Projects
 Project | Description | Stack | Demo Link
