@@ -20,9 +20,9 @@ Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.m
 ### Projects
 Project | Description | Stack | Demo Link
 --- | --- | --- | ---
-[Chronicle](https://github.com/karimabuseer/chronicle-content-tracker) | An interactive single-page map application that finds the midpoint between two locations based on travel time and displays a list of local venues within a selected radius of that midpoint. | Vanilla JS, Express, Pug, Node.js, HTML, CSS | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][https://chronicle-content-tracker.herokuapp.com/]
+[Chronicle](https://github.com/karimabuseer/chronicle-content-tracker) | An interactive single-page map application that finds the midpoint between two locations based on travel time and displays a list of local venues within a selected radius of that midpoint. | Vanilla JS, Express, Pug, Node.js, HTML, CSS | [![chronicle-demo](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://chronicle-content-tracker.herokuapp.com/)
 [Acebook][3] | Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them.  | Ruby, Rails, Postgres(PG gem), HTML, CSS | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][6]
-[MakersBNB][4] | Creating an airbnb clone - finished features include hosting and bookings. | Ruby, Postgres /w ActiveRecord, HTML, CSS | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7]
+[MakersBNB][4] | Creating an airbnb clone - finished features include hosting and bookings. | Ruby, Postgres /w ActiveRecord, HTML, CSS | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] [![name](link to image on GH)](link to your URL)
 
 ## Education
 ### Makers academy (May '21 - current)
