@@ -21,8 +21,8 @@ Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.m
 Project | Description | Stack | Demo Link
 --- | --- | --- | ---
 [Chronicle](https://github.com/karimabuseer/chronicle-content-tracker) | An interactive single-page map application that finds the midpoint between two locations based on travel time and displays a list of local venues within a selected radius of that midpoint. | Vanilla JS, Express, Bootstrap, Pug, Node.js, HTML, CSS | [![chronicle-demo](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://chronicle-content-tracker.herokuapp.com/)
-[Acebook][3] | Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them.  | Ruby, Rails, Postgres(PG gem), HTML, CSS | [![name](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](link to your URL)
-[MakersBNB][4] | Creating an airbnb clone - finished features include hosting and bookings. | Ruby, Sintara, Bootstrap, Postgres /w ActiveRecord, HTML, CSS, RSpec, Capybara | [![name](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](link to your URL)
+[Acebook][3] | Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them.  | Ruby, Rails, Postgres(PG gem), HTML, CSS | [![Acebook Demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](link to your URL)
+[MakersBNB][4] | Creating an airbnb clone - finished features include hosting and bookings. | Ruby, Sintara, Bootstrap, Postgres /w ActiveRecord, HTML, CSS, RSpec, Capybara | [![MakersBNB demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](link to your URL)
 
 ## Education
 ### Makers academy (May '21 - current)
