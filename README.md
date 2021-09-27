@@ -18,12 +18,24 @@ Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.m
 - Interpersonal Skills: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types
 
 
-### Projects
+## Projects
 Project | Description | Stack | Demo Link
 --- | --- | --- | ---
 [Chronicle](https://github.com/karimabuseer/chronicle-content-tracker) | An interactive single-page map application that finds the midpoint between two locations based on travel time and displays a list of local venues within a selected radius of that midpoint. | Vanilla JS, Express, Bootstrap, Pug, Node.js, HTML, CSS | [![chronicle-demo](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://chronicle-content-tracker.herokuapp.com/)
 [Acebook](https://github.com/karimabuseer/acebook-danger-noodles) | Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them.  | Ruby, Rails, Postgres(PG gem), HTML, CSS | [![Acebook Demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/zEa87y5ELqA)
-[MakersBNB](https://github.com/karimabuseer/makersbnb) | Creating an airbnb clone - finished features include hosting and bookings. | Ruby, Sintara, Bootstrap, Postgres /w ActiveRecord, HTML, CSS, RSpec, Capybara | [![MakersBNB demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/zSTIXx-denQ)
+[MakersBNB](https://github.com/karimabuseer/makersbnb) | Creating an airbnb clone - finished features include hosting and bookings. Have two of these projects, as was requested to change teams near the end of the week to help debug a fellow team's app, allowing them to reach MVP| Ruby, Sintara, Bootstrap, Postgres /w ActiveRecord, HTML, CSS, RSpec, Capybara | [![MakersBNB demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/zSTIXx-denQ)
+
+## Feedback 
+Some of the feedback received from a company hired to test our working practices when studying at Makers' Bootcamp:
+```
+Your tests were based on the expected inputs and outputs of the system. This is great as it promotes flexibility in your code while keeping it focused on the behaviour of the system.
+
+Your test progression was excellent, and you closely triangulated your tests. This resulted in small and incremental improvements with each passing iteration of your development cycle.
+```
+```
+You were sufficiently vocal about what you were doing and why you are doing it, pitching your reasoning at a good level that showed confidence in your decisions. Your reasoning for design and problem-solving decisions were also logically sound. Great job.
+```
+My latest review had 6 of 9 subject areas marked as 'Strong', the highest Grade possible - with no subject areas marked as 'Improving'. Please get in touch if you'd like a full copy of my most recent feedback appraisal.
 
 ## Education
 ### Makers academy (May '21 - current)
