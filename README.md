@@ -14,8 +14,8 @@ Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.m
 
 ## Skills
 - **Languages**: Exprience in Ruby, Javascript, HTML, CSS, Python and C.
-- **Problem-solving:** Problem solving comes naturally for me, and I approach most roadblocks in my life in a precise and analytical fashion. My undergraduate and postgraduate studies both heavily involved areas of Philosophy where problem solving is incredibly important (Metaphysics, Linguistics etc). I delight in abstraction, and in analytic effiency)
-- Interpersonal Skills: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types
+- **Problem-solving:** Problem solving comes naturally for me, and I approach most roadblocks in my life in a precise and analytical fashion. My undergraduate and postgraduate studies both heavily involved areas of Philosophy where problem solving is incredibly important (Metaphysics, Linguistics etc). I delight in abstraction, and in analytic effiency.
+- **Interpersonal Skills**: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types
 
 
 ## Projects
@@ -40,13 +40,12 @@ My latest review had 6 of 9 subject areas marked as 'Strong', the highest Grade 
 ## Education
 ### Makers academy (May '21 - current)
 A developmental bootcamp, focusing on
-- Agile methdologies
-- OOP
-- Team & pair programming
-- TDD & BDD
+- Developing web apps using an Agile Methodology in a team
+- Learning the fundamental principles of OOP, TDD and Software Engineering Principles
+- Team porgramming (XP) & pair programming debugging
 ### University of Nottingham (Sept '17 - Sept '18)
 * MA Philosophy
-* Modules in Metaphysics, Contemporary Ethics, and Philosophy of the Mind
+* Modules in Metaphysics, Contemporary Ethics, and Philosophy of the Mind. Focus on analytical Philosophy
 * Charity Secretary for the University of Nottingham Rugby Union Club
 ### University of Nottingham (Sept '14 - Sept '17)
 * BA Philosophy
@@ -85,7 +84,7 @@ For professional prjects I'd like to work on:
 I'd also love to eventually work in a role either focused towards big data, or towards AI - though I'm not at a level where I'd be confident of my ability to contribute meaningfully to a project of this sort.
 
 ## Personal Interests
-I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'm also a big rugby fan, and both play and watch the sport regularly. I also love running, having run a marathon and a few half marathons before. Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance to. 
+I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'm also a big rugby fan, and both play and watch the sport regularly. I also love running, having run a marathon and a few half marathons before. I enjoy yoga, meditation and keeping mindful; I also love a good podcast! Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance to. 
 
 ## Where to find me
 In beautiful South London, with my headphones on and a coffee in hand! If not...
