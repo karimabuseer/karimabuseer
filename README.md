@@ -39,7 +39,7 @@ Your reasoning for design and problem-solving decisions were also logically soun
 ### Makers academy (May '21 - current)
 A developmental bootcamp, focusing on
 - Developing web apps using an Agile Methodology in a team, whilst learning the fundamental principles of OOP, TDD and Software Engineering Principles
-- Worked on interpersonal skills 
+- Worked on interpersonal skills, serving as team lead for two projects and volunteering as a technical mentor for 3 other students
 ### University of Nottingham BA (Sept '14 - Sept '17) MA (Sept '17 - Sept '18)
 * Modules in Metaphysics, Contemporary Ethics, and Philosophy of the Mind. Focus on analytical Philosophy
 * Charity & Welfare Secretary for the University of Nottingham Rugby Union Club
