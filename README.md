@@ -30,7 +30,8 @@ Your test progression and triangulation is excellent, and you closely triangulat
 ```
 - **Interpersonal Skills**: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types. The aforementioned reviewer recently said: 
 ```
-You were sufficiently vocal about what you were doing and why you are doing it, pitching your reasoning at a good level that showed confidence in your decisions. 
+You were sufficiently vocal about what you were doing and why you are doing it. 
+You pitch your reasoning at a good level that shows confidence in your decisions. 
 Your reasoning for design and problem-solving decisions were also logically sound. Great job.
 ```
 
