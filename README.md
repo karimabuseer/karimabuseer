@@ -37,7 +37,7 @@ Your reasoning for design and problem-solving decisions were also logically soun
 
 ## Education
 ### Makers academy (May '21 - current)
-A developmental bootcamp, focusing on
+Software bootcamp focusing on:
 - Developing web apps using an Agile Methodology in a team, whilst learning the fundamental principles of OOP, TDD and Software Engineering Principles
 - Worked on interpersonal skills, serving as team lead for two projects and volunteering as a technical mentor for 3 other students
 ### University of Nottingham BA (Sept '14 - Sept '17) MA (Sept '17 - Sept '18)
@@ -46,10 +46,6 @@ A developmental bootcamp, focusing on
 ### Additional Learning
 * Introduction to Python (via Al Sweitgart's Automate the Boring Stuff)
 * C & Computer Science concepts (e.g time & memory complexity )via the CS50 freeware course
-
-## What I'm working on
-I'm currently working on improving the back-end routes of my Chronicle project. Outside of that, I'm currently working through an Algorithmic Complexity course, to give me a better grasp of ways to improve the time complexities of algorithms I write.
-
 
 ## Personal Interests
 I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'm also a big rugby fan, and both play and watch the sport regularly. I also love running, having run a marathon and a few half marathons before. I enjoy yoga, meditation and keeping mindful; I also love a good podcast! Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance to. 
