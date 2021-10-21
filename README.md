@@ -51,12 +51,12 @@ Your reasoning for design and problem-solving decisions were also logically soun
 Software bootcamp focusing on:
 - Developing web apps using an Agile Methodology in a team, whilst learning the fundamental principles of OOP, TDD and Software Engineering Principles
 - Worked on interpersonal skills, serving as team lead for two projects and volunteering as a technical mentor for 3 other students
+### Self Teaching Software Languages & CS  Principles | Oct 2021 - March 2021
+- Completed Computer Science courses (e.g Harvard's CS50X) and learnt syntax of several languages (e.g Automate the Boring Things with Python)
 ### University of Nottingham BA (Sept '14 - Sept '17) MA (Sept '17 - Sept '18)
 * Modules in Metaphysics, Contemporary Ethics, and Philosophy of the Mind. Focus on analytical Philosophy
 * Charity & Welfare Secretary for the University of Nottingham Rugby Union Club
-### Additional Learning
-* Introduction to Python (via Al Sweitgart's Automate the Boring Stuff)
-* C & Computer Science concepts (e.g time & memory complexity )via the CS50 freeware course
+-
 
 ## Personal Interests
 I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'm also a big rugby fan, and both play and watch the sport regularly. I also love running, having run a marathon and a few half marathons before. I enjoy yoga, meditation and keeping mindful; I also love a good podcast! Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance to. 
