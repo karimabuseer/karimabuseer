@@ -38,6 +38,14 @@ Your reasoning for design and problem-solving decisions were also logically soun
 ### World Traveller | Feb 2020 - Sept 2020
 - Planned a long period of travelling before career change. I only managed to be away for a month before returning to London due to COVID. Attempted to wait out the pandemic, but COVID won the waiting game
 
+### HubBox Sales Manager | Feb 2019 - Feb 2020
+- Conducted Enterprise Sales. Utilised strong interpersonal & leadership skills to achieve 120% of quota during tenure
+- Led internal user testing of all software being delivered to clients, using my excellent attention to detail and good technical knowledge to create JIRA tickets for our tech team to debug issues
+### HubBox Network Strategy & Operations Manager | Sept 2018 - Feb 2019
+- Oversaw creation and implementation of Network Growth Strategy, relying on my strong analytical skills to increase Network Activity by 32% YOY.
+- Additional Joint responsibility for Operations Team; was reported to by operations team lead, and aided them with strategy development and hiring process. Leant on my organisational skills to help finish a hiring round whilst recreating strategy.
+- Wrote technical documentation for Account Managers, using my strong written communication abilities.
+
 ## Education
 ### Makers academy (May '21 - current)
 Software bootcamp focusing on:
