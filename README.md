@@ -34,6 +34,9 @@ You were sufficiently vocal about what you were doing and why you are doing it.
 You pitch your reasoning at a good level that shows confidence in your decisions. 
 Your reasoning for design and problem-solving decisions were also logically sound. Great job.
 ```
+## Work Experience
+### World Traveller | Feb 2020 - Sept 2020
+- Planned a long period of travelling before career change. I only managed to be away for a month before returning to London due to COVID. Attempted to wait out the pandemic, but COVID won the waiting game
 
 ## Education
 ### Makers academy (May '21 - current)
