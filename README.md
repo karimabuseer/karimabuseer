@@ -8,7 +8,7 @@ Hello there! I'm Karim, a passionate junior full-stack developer from London. Th
 
 I believe in the power of technology to transform lives, and the world in an equitable way. I'm thrilled by software that can help us tackle some of the world's biggest challenges, and focus every moment I have on upskilling as a developer. 
 
-I'm solutions obsessed, and very excited to find the perfect first role where I can continue learning, and began contributing to a product. 
+I'm currently an Associate Software Engineer in the Solutions Engineering team at Eigen Technologies in London. 
 
 Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.me/badge?page_id=78814665)
 
@@ -20,7 +20,7 @@ Project | Description | Stack | Demo Link
 [MakersBNB](https://github.com/karimabuseer/makersbnb) | Creating an airbnb clone - finished features include hosting and bookings. Have two of these projects, as was requested to change teams near the end of the week to help debug a fellow team's app, allowing them to reach MVP| Ruby, Sintara, Bootstrap, Postgres /w PG gem, HTML, CSS, RSpec, Capybara | [![MakersBNB demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/zSTIXx-denQ)
 
 ## Skills
-- **Languages**: Exprience in Ruby, Javascript, HTML, CSS, Python and C.
+- **Languages**: Experience in Ruby, Javascript, HTML, CSS, Python and C.
 - **Problem-solving:** Problem solving comes naturally for me, being heavily required in my undergraduate and postgraduate studies.
 - **Debugging and TDD:** Asked to change groups during a bootcamp project due to strong debugging skills and maintaining strong TDD practices; a third party reviewer recently said:
 ```
@@ -35,6 +35,7 @@ You pitch your reasoning at a good level that shows confidence in your decisions
 Your reasoning for design and problem-solving decisions were also logically sound. Great job.
 ```
 ## Work Experience
+### Eigen Technologies | Nov 2021 - Current
 ### World Traveller | Feb 2020 - Sept 2020
 - Planned a long period of travelling before career change. I only managed to be away for a month before returning to London due to COVID. Attempted to wait out the pandemic, but COVID won the waiting game
 
