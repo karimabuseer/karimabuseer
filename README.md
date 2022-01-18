@@ -35,7 +35,8 @@ You pitch your reasoning at a good level that shows confidence in your decisions
 Your reasoning for design and problem-solving decisions were also logically sound. Great job.
 ```
 ## Work Experience
-### Eigen Technologies | Nov 2021 - Current
+### Eigen Technologies Associate Software Engineer | Nov 2021 - Current
+- Tech used: Docker, Python
 ### World Traveller | Feb 2020 - Sept 2020
 - Planned a long period of travelling before career change. I only managed to be away for a month before returning to London due to COVID. Attempted to wait out the pandemic, but COVID won the waiting game
 
