@@ -4,11 +4,11 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=karimabuseer&&show_icons=true&title_colo[%E2%80%A6]f&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 # Hello there! 👋
-Hello there! I'm Karim, a passionate junior full-stack developer from London. The midwife who delivered me declared I'd be a gigantic nerd to my mother, and happily she was proven correct. 
+Hello there! I'm Karim, a passionate software engineer from London. The midwife who delivered me declared I'd be a gigantic nerd to my mother, and happily, she was proven correct. 
 
 I believe in the power of technology to transform lives, and the world in an equitable way. I'm thrilled by software that can help us tackle some of the world's biggest challenges, and focus every moment I have on upskilling as a developer. 
 
-I'm currently employed as an Associate Software Engineer in the Solutions Engineering team at Eigen Technologies in London. 
+I'm currently employed as a Software Engineer in the Solutions Engineering team at Eigen Technologies in London. 
 
 Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.me/badge?page_id=78814665)
 
