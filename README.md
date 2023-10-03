@@ -10,8 +10,6 @@ I believe in the power of technology to transform lives, and the world in an equ
 
 I'm currently employed as a Software Engineer in the Solutions Engineering team at Eigen Technologies in London. 
 
-Visitors to this page/shared repos -> ![visitors](https://visitor-badge.glitch.me/badge?page_id=78814665)
-
 ## Projects
 Project | Description | Stack | Demo Link
 --- | --- | --- | ---
@@ -19,20 +17,6 @@ Project | Description | Stack | Demo Link
 [Acebook](https://github.com/karimabuseer/acebook-danger-noodles) | Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them.  | Ruby, Rails,  Postgres /w ActiveRecord, HTML, CSS, RSPec, Capybara | [![Acebook Demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/zEa87y5ELqA)
 [MakersBNB](https://github.com/karimabuseer/makersbnb) | Creating an airbnb clone - finished features include hosting and bookings. Have two of these projects, as was requested to change teams near the end of the week to help debug a fellow team's app, allowing them to reach MVP| Ruby, Sintara, Bootstrap, Postgres /w PG gem, HTML, CSS, RSpec, Capybara | [![MakersBNB demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/zSTIXx-denQ)
 
-## Skills
-- **Languages**: Experience in Ruby, Javascript, HTML, CSS, Python and C.
-- **Problem-solving:** Problem solving comes naturally for me, being heavily required in my undergraduate and postgraduate studies.
-- **Debugging and TDD:** Asked to change groups during a bootcamp project due to strong debugging skills and maintaining strong TDD practices; a third party reviewer recently said:
-```
-Your tests focused on the behaviour of the system, which is excellent.
-
-Your test progression and triangulation is excellent, and you closely triangulated your tests.
-```
-- **Interpersonal Skills**: I've had the privilege of leading volunteering teams for most of my adult life, alongside working as a Sales Representative for a SaaS start-up for over a year, which has left me with an intimate understanding of how to manage multiple stakeholders, and how to communicate with varying personality types. The aforementioned reviewer recently said: 
-```
-You were sufficiently vocal about what you were doing and why you are doing it. 
-You pitch your reasoning at a good level that shows confidence in your decisions. 
-Your reasoning for design and problem-solving decisions were also logically sound. Great job.
 ```
 ## Work Experience
 ### Eigen Technologies Associate Software Engineer | Nov 2021 - Current
