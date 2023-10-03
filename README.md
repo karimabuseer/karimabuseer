@@ -17,7 +17,6 @@ Project | Description | Stack | Demo Link
 [Acebook](https://github.com/karimabuseer/acebook-danger-noodles) | Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them.  | Ruby, Rails,  Postgres /w ActiveRecord, HTML, CSS, RSPec, Capybara | [![Acebook Demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/zEa87y5ELqA)
 [MakersBNB](https://github.com/karimabuseer/makersbnb) | Creating an airbnb clone - finished features include hosting and bookings. Have two of these projects, as was requested to change teams near the end of the week to help debug a fellow team's app, allowing them to reach MVP| Ruby, Sintara, Bootstrap, Postgres /w PG gem, HTML, CSS, RSpec, Capybara | [![MakersBNB demo](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)](https://youtu.be/zSTIXx-denQ)
 
-```
 ## Work Experience
 ### Eigen Technologies Associate Software Engineer | Nov 2021 - Current
 - Tech used: Docker, Python
@@ -33,19 +32,19 @@ Project | Description | Stack | Demo Link
 - Wrote technical documentation for Account Managers, using my strong written communication abilities.
 
 ## Education
-### Makers academy (May '21 - current)
+### Makers academy (May '21 - Sept '21)
 Software bootcamp focusing on:
 - Developing web apps using an Agile Methodology in a team, whilst learning the fundamental principles of OOP, TDD and Software Engineering Principles
 - Worked on interpersonal skills, serving as team lead for two projects and volunteering as a technical mentor for 3 other students
-### Self Teaching Software Languages & CS  Principles | Oct 2021 - March 2021
+### Self Teaching Software Languages & CS  Principles | Oct 2020 - March 2021
 - Completed Computer Science courses (e.g Harvard's CS50X) and learnt syntax of several languages (e.g Automate the Boring Things with Python)
-### University of Nottingham BA (Sept '14 - Sept '17) MA (Sept '17 - Sept '18)
+### University of Nottingham MA (Sept '14 - Sept '18) MA (Sept '17 - Sept '18)
 * Modules in Metaphysics, Contemporary Ethics, and Philosophy of the Mind. Focus on analytical Philosophy
 * Charity & Welfare Secretary for the University of Nottingham Rugby Union Club
 -
 
 ## Personal Interests
-I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'm also a big rugby fan, and both play and watch the sport regularly. I also love running, having run a marathon and a few half marathons before. I enjoy yoga, meditation and keeping mindful; I also love a good podcast! Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance to. 
+I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'm also a big rugby fan, and both play and watch the sport regularly. I also love running, having run a marathon and a few half marathons before. I enjoy yoga, meditation and keeping mindful; I also love a good podcast! Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance. 
 
 ## Where to find me
 In beautiful South London, with my earphones in and a coffee in hand! If not...
