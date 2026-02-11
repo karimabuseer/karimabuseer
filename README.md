@@ -9,6 +9,10 @@ I believe in the power of technology to transform lives, and the world in an equ
 
 I'm currently employed as a Software Engineer at Lyst in London
 
+## Work Experience
+* Eigen Technologies (2021-2023)
+* Lyst (2023-2025)
+* Kraken Technologies (2025-)
 
 ## Personal Interests
 I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'm also a big rugby fan, and both play and watch the sport regularly. I also love running, having run a marathon and a few half marathons before. I enjoy yoga, meditation and keeping mindful; I also love a good podcast! Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance. 
