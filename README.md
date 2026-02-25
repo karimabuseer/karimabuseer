@@ -7,7 +7,7 @@ Hello there! I'm Karim, a passionate software engineer from London. The midwife 
 
 I believe in the power of technology to transform lives, and the world in an equitable way. I'm thrilled by software that can help us tackle some of the world's biggest challenges, and focus every moment I have on upskilling as a developer. 
 
-I'm currently employed as a Software Engineer at Lyst in London
+I'm currently employed as a Senior Software Engineer at Kraken Technologies in London
 
 ## Work Experience
 * Eigen Technologies (2021-2023)
