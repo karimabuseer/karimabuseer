@@ -1,6 +1,4 @@
-## Contents
-[Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Personal Interests](#personal-interests) | [Where to find me](#where-to-find-me) | 
-
+# Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 
 # Hello there! 👋
 Hello there! I'm Karim, a passionate software engineer from London. The midwife who delivered me declared I'd be a gigantic nerd to my mother, and happily, she was proven correct. 
