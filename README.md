@@ -13,7 +13,7 @@ I'm currently employed as a Senior Software Engineer at Kraken Technologies in L
 * Kraken Technologies (2025-)
 
 ## Personal Interests
-I enjoy playing tabletop wargames & RPGs, as well as competitive video games. I'm also a big rugby fan, and both play and watch the sport regularly. I also love running, having run a marathon and a few half marathons before. I enjoy yoga, meditation and keeping mindful; I also love a good podcast! Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance. 
+I play tabletop wargames & RPGs & video games to relax. I'm also love rugby, F1, running (whilst litening to a good podcast), yoga and meditating. Finally, I love hardware, astronomy and science fiction - as well as travelling when I get the chance. 
 
 ## Where to find me
 In beautiful South London, with my earphones in and a coffee in hand! If not...
